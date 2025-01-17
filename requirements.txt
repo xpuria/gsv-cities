@@ -1,5 +1,5 @@
-faiss-cpu
-faiss-gpu
+faiss-cpu>=1.7.0
+
 matplotlib==3.5.3
 numpy==1.23.4
 pandas==1.5.1

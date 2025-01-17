@@ -1,6 +1,7 @@
-from pathlib import Path
+!ln -s "/content/drive/MyDrive/gsv_cities_data" "/content/gsv-cities/datasets"
 
-GT_ROOT = "/content/gsv-cities/datasets/"
-GSV_XS_PATH = "/content/gsv-cities/datasets/gsv_xs/"
-SF_XS_PATH = "/content/gsv-cities/datasets/sf_xs/"
-TOKYO_XS_PATH = "/content/gsv-cities/datasets/tokyo_xs/"
+
+GT_ROOT = "/content/drive/MyDrive/gsv_cities_data/"
+GSV_XS_PATH = "/content/drive/MyDrive/gsv_cities_data/gsv_xs/"
+SF_XS_PATH = "/content/drive/MyDrive/gsv_cities_data/sf_xs/"
+TOKYO_XS_PATH = "/content/drive/MyDrive/gsv_cities_data/tokyo_xs/"

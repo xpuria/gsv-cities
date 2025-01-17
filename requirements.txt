@@ -1,4 +1,4 @@
-faiss-cpu>=1.7.0
+faiss-gpu
 
 matplotlib==3.5.3
 numpy==1.23.4

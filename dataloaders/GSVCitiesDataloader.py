@@ -3,14 +3,14 @@ from torch.utils.data.dataloader import DataLoader
 from torchvision import transforms as T
 from prettytable import PrettyTable
 
-# 1) Import your custom SF-XS and Tokyo-XS datasets
+
 from dataloaders.val.SFXSDataset import SFXSDataset
 from dataloaders.val.TokyoXSDataset import TokyoXSDataset
 
-# 2) If you still need to train on GSV-cities for the "train" part:
+
 from dataloaders.train.GSVCitiesDataset import GSVCitiesDataset
 
-# 3) Optional: if you want to keep the same naming
+
 IMAGENET_MEAN_STD = {'mean': [0.485, 0.456, 0.406],
                      'std': [0.229, 0.224, 0.225]}
 

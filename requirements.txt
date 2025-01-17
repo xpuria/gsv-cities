@@ -13,6 +13,6 @@ tensorboard==2.11.0
 timm==0.6.12
 torch==1.13.1
 torchaudio
-torchmetrics==0.11.1
-torchvision==0.14.1
+torchmetrics
+torchvision
 tqdm==4.64.1

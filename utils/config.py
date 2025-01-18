@@ -1,4 +1,4 @@
-GT_ROOT = "/content/drive/MyDrive/gsv_cities_data/"
-GSV_XS_PATH = "/content/drive/MyDrive/gsv_cities_data/gsv_xs/"
-SF_XS_PATH = "/content/drive/MyDrive/gsv_cities_data/sf_xs/"
-TOKYO_XS_PATH = "/content/drive/MyDrive/gsv_cities_data/tokyo_xs/"
+GT_ROOT = "/content/datasets/"
+GSV_XS_PATH = "/content/datasets/gsv_xs/"
+SF_XS_PATH = "/content/datasets/sf_xs/"
+TOKYO_XS_PATH = "/content/datasets/tokyo_xs/"

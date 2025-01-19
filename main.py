@@ -1,8 +1,8 @@
 # main.py
-import pytorch_lightning as pl
+#import pytorch_lightning as pl
 import torch
 import torch.amp as amp
-from pytorch_lightning.callbacks import ModelCheckpoint
+#from pytorch_lightning.callbacks import ModelCheckpoint
 import utils
 from dataloaders.GSVCitiesDataloader import GSVCitiesDataModule
 from models import helper
